@@ -1,7 +1,7 @@
-package com.javarush.task.task36.task3608.dao;
+package MVC-pattern-realization-master.dao;
 
-import com.javarush.task.task36.task3608.bean.User;
-import com.javarush.task.task36.task3608.dao.mock.DataSource;
+import MVC-pattern-realization-master.bean.User;
+import MVC-pattern-realization-master.dao.mock.DataSource;
 
 import java.util.ArrayList;
 import java.util.List;
