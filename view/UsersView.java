@@ -1,8 +1,8 @@
-package com.javarush.task.task36.task3608.view;
+package MVC-pattern-realization-master.view;
 
-import com.javarush.task.task36.task3608.controller.Controller;
-import com.javarush.task.task36.task3608.model.ModelData;
-import com.javarush.task.task36.task3608.bean.User;
+import MVC-pattern-realization-master.controller.Controller;
+import MVC-pattern-realization-master.model.ModelData;
+import MVC-pattern-realization-master.bean.User;
 
 import java.util.List;
 
