@@ -1,6 +1,6 @@
-package com.javarush.task.task36.task3608;
+package MVC-pattern-realization-master;
 
-import com.javarush.task.task36.task3608.bean.User;
+import MVC-pattern-realization-master.bean.User;
 
 public final class Util {
     public static final String DELETED_MARKER = " (deleted)";
