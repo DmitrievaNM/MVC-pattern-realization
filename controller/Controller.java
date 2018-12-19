@@ -1,8 +1,8 @@
-package com.javarush.task.task36.task3608.controller;
+package MVC-pattern-realization-master.controller;
 
-import com.javarush.task.task36.task3608.model.Model;
-import com.javarush.task.task36.task3608.view.EditUserView;
-import com.javarush.task.task36.task3608.view.UsersView;
+import MVC-pattern-realization-master.model.Model;
+import MVC-pattern-realization-master.view.EditUserView;
+import MVC-pattern-realization-master.view.UsersView;
 
 public class Controller {
     private Model model;
