@@ -1,10 +1,10 @@
-package com.javarush.task.task36.task3608;
+package MVC-pattern-realization-master;
 
-import com.javarush.task.task36.task3608.controller.Controller;
-import com.javarush.task.task36.task3608.model.MainModel;
-import com.javarush.task.task36.task3608.model.Model;
-import com.javarush.task.task36.task3608.view.EditUserView;
-import com.javarush.task.task36.task3608.view.UsersView;
+import MVC-pattern-realization-master.controller.Controller;
+import MVC-pattern-realization-master.model.MainModel;
+import MVC-pattern-realization-master.model.Model;
+import MVC-pattern-realization-master.view.EditUserView;
+import MVC-pattern-realization-master.view.UsersView;
 
 public class Solution {
     public static void main(String[] args) {
