@@ -1,8 +1,8 @@
-package com.javarush.task.task36.task3608.model.service;
+package MVC-pattern-realization-master.model.service;
 
-import com.javarush.task.task36.task3608.Util;
-import com.javarush.task.task36.task3608.bean.User;
-import com.javarush.task.task36.task3608.dao.UserDao;
+import MVC-pattern-realization-master.Util;
+import MVC-pattern-realization-master.bean.User;
+import MVC-pattern-realization-master.dao.UserDao;
 
 import java.util.ArrayList;
 import java.util.List;
