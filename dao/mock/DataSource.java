@@ -1,6 +1,6 @@
-package com.javarush.task.task36.task3608.dao.mock;
+package MVC-pattern-realization-master.dao.mock;
 
-import com.javarush.task.task36.task3608.bean.User;
+import MVC-pattern-realization-master.bean.User;
 
 import java.util.LinkedList;
 import java.util.List;
