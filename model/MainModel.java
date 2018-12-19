@@ -1,8 +1,8 @@
-package com.javarush.task.task36.task3608.model;
+package MVC-pattern-realization-master.model;
 
-import com.javarush.task.task36.task3608.bean.User;
-import com.javarush.task.task36.task3608.model.service.UserService;
-import com.javarush.task.task36.task3608.model.service.UserServiceImpl;
+import MVC-pattern-realization-master.bean.User;
+import MVC-pattern-realization-master.model.service.UserService;
+import MVC-pattern-realization-master.model.service.UserServiceImpl;
 
 import java.util.*;
 
